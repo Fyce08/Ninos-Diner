@@ -1,4 +1,4 @@
-/*CREATE SCHEMA Ninos_diner;
+CREATE SCHEMA Ninos_diner;
 CREATE TABLE sales
   ("customer_id" VARCHAR(1),
   "order_date" DATE,
@@ -42,4 +42,4 @@ INSERT INTO members
   ("customer_id", "join_date")
 VALUES
   ('A', '2021-01-07'),
-  ('B', '2021-01-09');*/
+  ('B', '2021-01-09');
