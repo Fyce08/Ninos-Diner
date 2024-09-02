@@ -1,16 +1,14 @@
-
 #   Nino's Diner
-
 
 ## Table Of Contents 
 
- ### Problem Statement 
+### • Problem Statement 
 
- ### Dataset
+### • Dataset
 
- ### Questions
+### • Questions
 
- ### Solutions
+### Solutions
 
 
 ## Problem Statement
