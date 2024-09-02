@@ -8,7 +8,7 @@
 
 ### • Questions
 
-### Solutions
+### • Solutions
 
 
 ## Problem Statement
